@@ -1,0 +1,16 @@
+*.pyc
+.project
+*.bak
+*.vot
+*.reg
+*.fits
+.idea
+depexoTools.egg-info
+.cache
+.eggs
+.pytest*
+build/
+dist/
+wiki/
+doc/_build/
+.vscode
